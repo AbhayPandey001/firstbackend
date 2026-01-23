@@ -55,3 +55,6 @@ in top :: **require('dotenv').config()**
 to use it in code :: **process.env** ke baad ek dot laga ke property ka naam such as PORT
 
 and the code will now run at port 4000
+
+
+## last m deploy to production bhi dekha tha
