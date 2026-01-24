@@ -25,7 +25,7 @@ aisa karne se ab aage se node index.js karke file ko run nahin karna padega , di
  ```
 
  it generates  node modules   
- ab expess install hogaya hai , now we go to docs , helloworld program , copy paste....    
+ ab expess install hogaya hai , now we go to docs (https://expressjs.com/en/starter/hello-world.html), helloworld program , copy paste....    
  we get few things the top line requires express and then uski help se ek app object banate hain   
  just like  Math object bana lene se ham math.pi , .random etc kar sakte hain , app banane se bhi ham waise hi  
   express ke sari methods ko use kar sakte hain
