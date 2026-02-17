@@ -9,10 +9,7 @@ sabse pehle , kisi folder ko open karke
 ```
 npm init
 ```
-aisa karne se woh folder ek node ka project ban jata hai and uske baad ham various node packages install kar sakte hain like 
-```
-npm install express  
-```
+aisa karne se woh folder ek node ka project ban jata hai and uske baad ham various node packages install kar sakte hain like npm install express  
 Isse ek **package.json** file milti hai
 
 
